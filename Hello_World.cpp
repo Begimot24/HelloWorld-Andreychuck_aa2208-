@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;
+using namespace std; 
 
 int main()
 {
@@ -10,7 +10,9 @@ int main()
 
 	cout << "Please enter a number: ";
 
+
 	cin >> value;
+
 
 	cout << "Your number is ";
 
